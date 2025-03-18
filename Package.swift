@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "pocKMP",
-            url: "https://github.com/duduaiqfome/appKmp/releases/download/v0.1.0/Shared.xcframework.zip",
-            checksum: "66bdecf5a858ad1abb814d443858f2838879f7a51ff1249925e1fa235e782b79"
+            url: "https://github.com/duduaiqfome/appKmp/releases/download/v1.8.0/Shared.xcframework.zip",
+            checksum: "91a90765be17214762fa2379f43e614aeb502e22eba704feb955917aa39cab15"
         )
     ]
 )
